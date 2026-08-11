@@ -1,0 +1,5 @@
+response,predicted,criterion,result
+ER,311.22,>= 300.0,PASS
+UT,0.88,<= 2.0,PASS
+MD,1.96,<= 3.0,PASS
+THETA,90.7,90.0 +/- 3.0,PASS
